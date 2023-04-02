@@ -1,4 +1,5 @@
 # KnockOut-Game
+## Game link : https://soumen02.github.io/KnockOut-JS/
 
 Interactive, 2-person shooter game. Knock out your oponent before they knock you out!
 
